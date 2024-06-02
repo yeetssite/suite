@@ -1,5 +1,5 @@
-# scripts  
-My bash and other assorted scripts
+# Yeet's Suite  
+My chadded programs and scripts
 
 # use  
 This repo is actually a github pages site at [https://yeetssite.github.io/suite/](https://yeetssite.github.io/suite/)(formely [https://yeetssite.github.io/scripts](https://yeetssite.github.io/scripts)), but it has no content as it's specifically made to host files only.
