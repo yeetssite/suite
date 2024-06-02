@@ -1,6 +1,7 @@
 # Python scripts
 
-> Note: These python scripts require **Python 3** to run. If you don't have Python 3 installed, install it(as shown below).
+> Note: These python scripts require **Python 3** to run. 
+> If you don't have Python 3 installed, install it:
 
 ### Installing python 3
 
